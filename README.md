@@ -22,14 +22,6 @@ Install dependencies:
 yarn install | npm install
 ```
 
-Install test Dependencies
-
-```sh
-yarn add supertest jest @types/jest @types/supertest ts-jest -D
-
-yarn ts-jest config:init
-```
-
 Start the app:
 
 ```sh
